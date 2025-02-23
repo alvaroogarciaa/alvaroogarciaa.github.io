@@ -1,10 +1,10 @@
 - name: Smash Hamburguesa
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: https://www.elle.com/es/gourmet/gastronomia/a42096520/smash-burgers-que-son-donde-comerlas/
   link:
   description: La espacial de la casa, la smash burguer, no podrás resistirte
 - name: Nachos
   link:
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  image: https://www.istockphoto.com/es/fotos/nachos
   description: Los nachos más crujientes y deliciosos que hayas probado
 - name: Tequeños
   link:
