@@ -1,20 +1,20 @@
 - name: Smash Hamburguesa
-  image: https://www.elle.com/es/gourmet/gastronomia/a42096520/smash-burgers-que-son-donde-comerlas/
+  image: ../assets/images/Smile Smash Burger 0182.webp
   link:
   description: La espacial de la casa, la smash burguer, no podrás resistirte
 - name: Nachos
   link:
-  image: https://www.istockphoto.com/es/fotos/nachos
+  image: ../assets/images/nachos-supreme.webp
   description: Los nachos más crujientes y deliciosos que hayas probado
 - name: Tequeños
   link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  image: ../assets/images/360_F_391790195_AB3JuwLMu6wk2QY3OjNoSqxRFcBAFZKF.webp
   description: Los tequeños más sabrosos de la ciudad
 - name: Mac & Cheese
   link:
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  image: ../assets/images/mac-cheese-macaroni-pasta-cheesy-sauce-american-style_1339-135335.webp
   description: El macarrón con queso más cremoso y delicioso
 - name: Tarta de Queso
   link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  image: ../assets/images/tarta-de-queso-la-vina.webp
   description: La tarta de queso más cremosa y deliciosa que hayas probado
