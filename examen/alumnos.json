@@ -1,0 +1,10 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Alvro",
+            "apellido": "Garcia",
+            "dni": 12345678,
+            "nota": 8
+        }
+    ]
+}

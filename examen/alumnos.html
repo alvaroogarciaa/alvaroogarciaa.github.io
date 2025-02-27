@@ -1,0 +1,18 @@
+---
+layout: default
+title: Alumnos
+---
+<h1>lista alumnos:</h1>
+<script>
+    fetch('examen/alumnos.json')
+        .then(response => response.json())
+        .then(data => {
+            let lista = document.getElementById('lista-alumnos');
+            data.alumnos.forEach(alumno => {
+                let li = document.createElement('li');
+                li.textContent = `${alumno.nombre} ${alumno.apellido}`;
+                lista.appendChild(li);
+            });
+        });
+        
+</script>
