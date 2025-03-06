@@ -3,5 +3,9 @@ layout: default
 title: Ranking Alumnos y Notas
 ---
 
-<h1>Ranking alumnos y Notas</h1>
-<p>aqui ves el ranking de alumnos</p>
+<h1>Media alumnos</h1>
+<ul>
+    {% for media in site.data.medias %}
+        <li>{{ media.nombre }} {{ media.nota1 }} {{ media.nota2 }} {{ media.nota3 }} - media {{ media.media }}</li>
+    {% endfor %}
+</ul>
